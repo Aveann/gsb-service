@@ -1,0 +1,13 @@
+D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\bin\Debug\WindowsServiceGsb.exe.config
+D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\bin\Debug\WindowsServiceGsb.exe
+D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\bin\Debug\WindowsServiceGsb.pdb
+D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\obj\Debug\WindowsServiceGsb.csprojResolveAssemblyReference.cache
+D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\obj\Debug\WindowsServiceGsb.ProjectInstaller.resources
+D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\obj\Debug\WindowsServiceGsb.WindowsServiceGsb.resources
+D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\obj\Debug\WindowsServiceGsb.csproj.GenerateResource.cache
+D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\obj\Debug\WindowsServiceGsb.csproj.CoreCompileInputs.cache
+D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\obj\Debug\WindowsServiceGsb.exe
+D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\obj\Debug\WindowsServiceGsb.pdb
+D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\bin\Debug\MySql.Data.dll
+D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\bin\Debug\MySql.Data.xml
+D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\obj\Debug\WindowsServiceGsb.csproj.CopyComplete

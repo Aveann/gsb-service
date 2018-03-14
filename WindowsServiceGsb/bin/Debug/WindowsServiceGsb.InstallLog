@@ -1,0 +1,13 @@
+﻿Installation de l'assembly 'D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\bin\Debug\WindowsServiceGsb.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\bin\Debug\WindowsServiceGsb.InstallLog
+   assemblypath = D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\bin\Debug\WindowsServiceGsb.exe
+Installation du service WindowsServiceGsb en cours...
+Le service WindowsServiceGsb a été installé avec succès.
+Création d'une source EventLog WindowsServiceGsb dans le journal Application...
+Validation de l'assembly 'D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\bin\Debug\WindowsServiceGsb.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\bin\Debug\WindowsServiceGsb.InstallLog
+   assemblypath = D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\bin\Debug\WindowsServiceGsb.exe
