@@ -11,3 +11,7 @@ D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\obj\Debug\Windows
 D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\bin\Debug\MySql.Data.dll
 D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\bin\Debug\MySql.Data.xml
 D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\obj\Debug\WindowsServiceGsb.csproj.CopyComplete
+D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\bin\Debug\WindowsServiceGsb.exe.manifest
+D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\bin\Debug\WindowsServiceGsb.application
+D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\obj\Debug\WindowsServiceGsb.exe.manifest
+D:\naeva\Documents\Projets\WindowsServiceGsb\WindowsServiceGsb\obj\Debug\WindowsServiceGsb.application

@@ -12,7 +12,7 @@ namespace WindowsServiceGsb
 {
     class DBConnect
     {
-        // propriétés
+        // paramètres de connexion à la base de données:
         private readonly string _server = "localhost";
         private readonly string _database = "gsb_frais";
         private readonly string _uid = "admin";
